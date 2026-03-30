@@ -1,6 +1,6 @@
 # War Predictive Dashboard (Bridgewater Macro Model)
 
-Inspired by Ray Dalio’s "Principles," I built this project to function as a "machine"—a systematic approach to processing data into actionable reality. By mapping out cause-effect relationships within the data, this tool predicts future outcomes and provides a front-end interface to translate complex insights into clear, human-centric narratives. 
+Inspired by Ray Dalio’s "Principles," I built this project to function as a "machine" with a systematic approach to processing data into actionable reality. By mapping out cause-effect relationships within the data, this tool predicts future outcomes and provides a front-end interface to translate complex insights into clear, human-centric narratives. 
 
 Building this is a continuous process of 'radical transparency' and evolution. If you have thoughts on the logic or want to discuss how to improve the forecasting model, I’d love to chat!
 
